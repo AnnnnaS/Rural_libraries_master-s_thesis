@@ -3,6 +3,9 @@
 
 Инфа о диссертации
 
-![]()![3](https://github.com/user-attachments/assets/02f03548-f15e-4572-9fa2-49dc55f0c4c7)
 
 https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+Техст
+![баннер](https://github.com/user-attachments/assets/d75ae522-1d44-48f7-bb79-689464e3b543)
+Текст текст текст
